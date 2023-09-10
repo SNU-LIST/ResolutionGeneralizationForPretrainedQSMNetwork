@@ -1,4 +1,4 @@
-# ResolutionGeneralizationForQSMNetwork
+# Resolution Generalization Code For Pretrained QSM Networks
 
 Matlab code for resolution-generalized inference of deep learning-based QSM methods<br/>
 
